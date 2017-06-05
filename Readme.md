@@ -1,4 +1,4 @@
-# WWDC
+# WWDC :sunglasses: :trophy:
 ## Day 1
 ### Session: State of the union
 #### Appstore
@@ -6,7 +6,9 @@
 
 #### Swift playgrounds
 
-##### XCode 9
+##### XCode 9 :fire:
 Markdown editor
 Multiple fixes with a single click
-Refactoring system (so fucking cool feawture, everybody gets crazy).
+Refactoring system (so fucking cool feature, everybody gets crazy).
+
+#### Swift
