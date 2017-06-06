@@ -38,3 +38,41 @@
 * Enabling VR development.
 * Stram VR for MAC OS Support.
 * Unity support just in a few of days.
+
+## Day 2 :trophy:
+
+### Michelle Obama conversatory
+* Empower womans
+
+### What's new in Cocoa Touch
+#### Productivity
+Drag and drop
+File management
+
+#### UI refinements
+Large title in navigation bar just like apple music, also we can add a search bar just below, navigation bar collapse in scroll.
+
+UINavigation Bar: `prefersLargeTitle: Bool`  set true, that simple
+UINavigationItem: `largeTitleDisplayMode: Bool` set true.
+UINavigationItem: `searchController` property.
+Safe Area inset. 
+UITableview Separator inset reference.
+
+#### API enhancements
+Swift 4 and fundation
+* Codable protocol to decode and code.
+* Keypath tyoes \Presenter.copresenter.name
+* Block based KVO (Key value observer)
+* Autolayout
+- Dynamic type (Sizing your text).
+- Scale any font
+- UIFontMetrict class, method - scalefont: standard font.
+
+* Password autofill
+- add entitlement in the app
+- add few of codes in the backend, just like universal link.
+
+* PDF Backed catalogs
+- There's new feature for accesability, hold the tab bar icons.
+#### Localization
+
