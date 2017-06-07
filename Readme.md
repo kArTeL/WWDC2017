@@ -41,7 +41,7 @@
 
 ## Day 2 :trophy:
 
-### Michelle Obama conversatory
+### Michelle Obama conversation
 * Empower womans
 
 ### What's new in Cocoa Touch
@@ -74,5 +74,62 @@ Swift 4 and fundation
 
 * PDF Backed catalogs
 - There's new feature for accesability, hold the tab bar icons.
-#### Localization
+
+
+### Introduction to drag and drop
+API Available to iphone
+
+Lift - Drag - Set drop - Transfer
+
+UI responder have a new paste configuration roperty
+
+API Road map.
+
+
+## Session: What's new in Swift
+
+Preview Build system in XCode
+Generics
+Swift strings
+
+## Session: Introducing Core ML
+### TASK:  Show all images of roses
+* Training phase
+* Offline+Labels -> Learning algorithm -> Model
+* Input -> Model -> Label:Rose confidence: 95%
+
+### ML Frameworks
+                                 App
+        Vision Natural                             language processing
+                             ML Framework
+
+### CoreML
+Models
+https://developer.apple.com/machine-lwargning
+Core ML models
+Core ML Tools python ML Model
+
+
+
+Development flow
+Xcode will recognize the MLModel file, should be added to the target.
+
+## Session: Updating to IOS 11
+UIBarItems -> landScapeImagePhone
+           -> largeContentSizeImage
+NavigationItemSearchController
+
+
+
+## Session: ARKit
+### Requirement: 
+* IOS 9 and up
+### Use cases:
+* Tracking
+* Scene understanding - plane detection - Light stimation.
+
+
+let  mysession = ARSession()
+mysession.deleegate= self
+mysession.configuration(configuration)
 
