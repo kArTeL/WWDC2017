@@ -42,7 +42,7 @@
 ## Day 2 :trophy:
 
 ### Michelle Obama conversation
-* Empower womans
+* Empower woman
 
 ### What's new in Cocoa Touch
 #### Productivity
@@ -105,7 +105,7 @@ Swift strings
 
 ### CoreML
 Models
-https://developer.apple.com/machine-lwargning
+https://developer.apple.com/machine-leargning
 Core ML models
 Core ML Tools python ML Model
 

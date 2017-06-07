@@ -120,7 +120,11 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Normal title" largeTitleDisplayMode="never" id="kEz-4K-7HD">
-                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="hgT-Ov-aJF"/>
+                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="hgT-Ov-aJF">
+                            <connections>
+                                <action selector="dondeButtonPressed:" destination="OhS-P2-2M7" id="Drm-cg-ARQ"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ny2-2J-iuT" userLabel="First Responder" sceneMemberID="firstResponder"/>
